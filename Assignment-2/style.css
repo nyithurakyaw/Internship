@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    margin:50px;
+}
+
+header{
+    padding:10px 10px;
+    background-color: rgb(167, 165, 165);
+    
+}
+
+header a{
+    text-decoration: none;
+    color: rgb(115, 115, 115);
+}

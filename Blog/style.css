@@ -36,6 +36,9 @@ nav img{
     display: flex;
     align-items: center;
 }
+.hero-header{
+    color: rgb(211, 128, 10);
+}
 .article{
     margin-left:200px;
     color:white;
@@ -67,6 +70,12 @@ article{
     width:400px;
     margin-right:10px;
 }
+.left-article-header{
+    margin-bottom:20px;
+}
+.left-article-header span{
+    color: orange;
+}
 .left-article p{
     font-size: 13px;
     color:gray;
@@ -79,6 +88,10 @@ article{
 .right-article{
     width:400px;
     margin-left:10px;
+}
+.right-article-p,.side-p{
+    font-size:13px;
+    color:gray;
 }
 .side{
     display: flex;
@@ -120,6 +133,10 @@ section{
 .header h1{
     margin:0 0 10px 0;
 }
+.header p{
+    width:600px; 
+    text-align: center;
+}
 .container{
     display: flex;
     gap: 10px;
@@ -135,7 +152,16 @@ section{
     box-shadow: 2px 2px 4px rgba(163, 162, 162, 0.2),
                 -2px -2px 4px rgba(154, 153, 153, 0.2) ;
 }
-
+.card-info{
+    text-align: center;
+}
+.card-info h5{
+    margin-bottom: 10px;
+}
+.card-info p{
+    width:140px;
+    font-size:12px;
+}
 .icon-border i{
     font-size:40px;
     border:1px solid gray;
@@ -161,6 +187,15 @@ section{
 .notes{
     width:300px;
     margin:0 0 0 15px;
+}
+.notes h1{
+    margin: 0 0 10px 0;
+    font-size:20px;
+}
+.notes p{
+    font-size:13px; 
+    margin: 0 0 10px 0; 
+    color:rgb(114, 114, 114);
 }
 .notes ul{
     margin:0 0 0 15px;

@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.view1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    border:1px solid gray;
+}
+.view2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border:1px solid gray;
+}

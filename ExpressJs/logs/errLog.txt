@@ -1,2 +1,23 @@
 20250510	11:22:58	0cdcac75-7ede-46ad-8b8b-9f9f79dfea11	Error:not allow by ccors
 20250510	11:38:24	d824d667-7c8b-4dc1-8ace-33b7404bc698	Error:not allow by ccors
+20250511	20:07:00	0beb27b2-bd84-4b90-9cf2-0540414dae3d	Error:not allow by ccors
+20250511	20:07:53	1df13f09-72c8-4779-bca0-0b6c2593f571	Error:not allow by ccors
+20250511	20:07:54	874aa682-59be-48c9-adb9-193a93c21123	Error:not allow by ccors
+20250511	21:59:55	c2905e6c-f940-47bd-becb-8b02b8ce4ad7	Error:ENOENT: no such file or directory, stat 'D:\Data\Programming\Web developer course\Internship\ExpressJs\routes\views\index.html'
+20250511	21:59:55	b90449d0-f71e-4952-b86f-d9b02428359f	Error:ENOENT: no such file or directory, stat 'D:\Data\Programming\Web developer course\Internship\ExpressJs\routes\views\index.html'
+20250511	22:52:51	0acfce90-ba9e-4ace-8bc2-f8564c862ad6	Error:not allow by ccors
+20250512	18:32:12	707d742d-68f0-4948-839b-797f84401600	SyntaxError:Expected double-quoted property name in JSON at position 33 (line 4 column 1)
+20250512	18:32:20	6d1b5f8a-5103-4727-8c45-f9550a0657ea	Error:not allow by ccors
+20250512	20:37:40	9df3c1ce-6f19-4a9a-8f93-e7666fd342ab	Error:not allow by ccors
+20250512	20:37:41	a95f02ea-d3c3-4080-a767-8b2be900a5ec	Error:not allow by ccors
+20250512	20:37:42	8c605c17-dbcc-451c-a7e0-983b75e120f5	Error:not allow by ccors
+20250512	20:37:42	0a005e04-92d3-44d8-9f91-9c83ba90b24f	Error:not allow by ccors
+20250512	20:38:13	5ec4e288-5e88-4aea-9b99-7fd533069224	Error:not allow by ccors
+20250512	20:38:13	46becc8b-16f1-49ab-8637-a14d069bd652	Error:not allow by ccors
+20250512	20:39:14	cf188b62-7a8b-4a71-89c1-71db0cb83ea2	Error:not allow by ccors
+20250512	20:39:14	0d05ea82-8ba3-443c-b5c0-6c5859c2dbc0	Error:not allow by ccors
+20250512	20:41:31	632470c4-9d8c-4659-abf7-6d21a7c5930d	Error:not allow by ccors
+20250512	20:41:31	86bf3536-dc96-4614-9f9a-b822e6cec5ca	Error:not allow by ccors
+20250512	20:50:55	cb11f746-ce06-4637-baec-0c1c1b715fbf	Error:Error from CORS
+20250512	20:50:56	4f3984a0-1f75-4904-89bb-4b2a70619a8d	Error:Error from CORS
+20250512	21:48:02	19d030e8-0a35-4939-b2ef-ef3c8436ef16	TypeError:Cannot read properties of undefined (reading 'id')

@@ -1,7 +1,11 @@
 const express = require('express');
 const path = require('path');
+const rootdir = require('./routes/root');
+const subdir = require('./routes/subdir');
+const employee = require('./routes/api/employee');
 const {logger} = require('./middleware/logEvent');
 const errorhandler = require('./middleware/errorHandler');
+const corsOptions = require('./config/corsOption');
 const cors = require('cors');
 
 const app = express();
@@ -9,36 +13,16 @@ const PORT = process.env.PORT || 4000;
 console.log(__dirname);
 app.use(express.urlencoded({extended:false}));
 app.use(express.json())
-const whiteList = ['https://www.google.com','http://127.0.0.1:4000','http://localhost:4000/'];
-const corsOptions = {
-    origin:(origin,callback) => {
-        if(whiteList.indexOf(origin) !== -1 || !origin){
-            callback(null ,true);
-        }else{
-            callback(new Error('not allow by ccors'));
-        }
-    },
-    optionsSuccessStatus:200
-}
+
 app.use(cors(corsOptions));
-app.use(express.static(path.join(__dirname,'public')));
+app.use('/',express.static(path.join(__dirname,'/public')));
+app.use('/subdir',express.static(path.join(__dirname,'/public')));
 
 app.use(logger);
 
-app.get(/^\/index(\.html)?$/,(req,res)=>{
-    res.sendFile(path.join(__dirname,'views','index.html'));
-});
-
-app.get('/hello',(req,res,next)=>{
-    console.log("this attemp to hello");
-    next();
-},(req,res) => {
-    res.json({
-        message:"Hello fr"
-    });
-});
-
-app.use('/subdir',require('./routes/subdir'));
+app.use('/',rootdir);
+app.use('/subdir',subdir);
+app.use('/api/employee',employee);
 
 app.all('*name',(req,res)=>{
     res.status(404);

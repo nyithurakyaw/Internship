@@ -1,0 +1,15 @@
+[
+    {
+        "userName": "jhon",
+        "password": "$2b$10$pAgf92iGEu9eQgOk.zPCJec/zW8SjQC0pvYw5ZBaVTuJe.GJDNcra"
+    },
+    {
+        "userName": "mani",
+        "password": "$2b$10$uVfKWCpR5QoxDnHxIgczkOdtacLPV3LVw.abjO9fi1.r0YnyyMZLq"
+    },
+    {
+        "userName": "monoro",
+        "password": "$2b$10$TJjmEi11es1zf5NZvuotiO9eZS0jMbU6Df3ahmZkltZ0fLaqClW7W",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6Im1vbm9ybyIsImlhdCI6MTc0NzIwNzg4MCwiZXhwIjoxNzQ3Mjk0MjgwfQ.GuC3K_eXAzGOg3oSxtfkbXz6KFwIhj3HyJCy0lJi6_s"
+    }
+]

@@ -21,3 +21,66 @@
 20250512	20:50:55	cb11f746-ce06-4637-baec-0c1c1b715fbf	Error:Error from CORS
 20250512	20:50:56	4f3984a0-1f75-4904-89bb-4b2a70619a8d	Error:Error from CORS
 20250512	21:48:02	19d030e8-0a35-4939-b2ef-ef3c8436ef16	TypeError:Cannot read properties of undefined (reading 'id')
+20250513	21:03:53	178f988b-5b9c-435b-aa9b-9e99c923c47e	SyntaxError:Expected ',' or '}' after property value in JSON at position 30 (line 3 column 5)
+20250513	21:10:02	b04d9224-46d6-408e-9d78-cbfee7a9b11f	SyntaxError:Expected double-quoted property name in JSON at position 33 (line 4 column 1)
+20250514	12:00:20	fd4f887c-1987-4a84-8942-e44c4aed5f57	Error:Error from CORS
+20250514	12:01:27	b896f2eb-f6e5-4b57-a7b0-bcf89eb2f99b	Error:Error from CORS
+20250514	12:12:00	06f502fe-7dac-4e97-8370-f777376b3b49	ReferenceError:whiteList is not defined
+20250514	12:14:03	9d0478bc-6aed-4d04-a5ca-bf9fe66deda7	ReferenceError:whiteList is not defined
+20250514	12:14:26	0af3cb2a-467e-4a25-9b93-a0b5f9ce41b9	TypeError:allowOrigin.indexOf is not a function
+20250514	12:14:47	68fd9fa0-005d-4e4a-a000-d26432c21255	Error:Error from CORS
+20250514	12:15:27	56db8534-1688-449d-9642-72d6bcb40284	Error:Error from CORS
+20250514	12:15:33	b0e10881-dca6-4470-a173-e37409066eaf	Error:Error from CORS
+20250514	12:15:34	7b4c454f-19a2-40e0-b852-27312c6bc4a1	Error:Error from CORS
+20250514	12:15:34	b0e17011-fd7a-4c24-af49-fa859c93da54	Error:Error from CORS
+20250514	12:15:35	8615de18-b01f-4b80-9dbe-cabf5f00ba4e	Error:Error from CORS
+20250514	12:15:36	014d3c06-43d2-4cfc-ac70-7593bd6bfaff	Error:Error from CORS
+20250514	12:15:36	6f36d2e3-6b6d-44c0-b01d-746d48466865	Error:Error from CORS
+20250514	12:15:37	4e4defaa-b23a-46e8-ad26-a5c3473eb9b5	Error:Error from CORS
+20250514	12:15:37	110a3a02-f9c3-43db-b507-3443683e9c29	Error:Error from CORS
+20250514	12:15:38	d471ad2f-2cbe-4ed1-96d3-78e54bd2d582	Error:Error from CORS
+20250514	12:16:50	030e687d-5333-494c-9dcd-d4ac9ef44162	Error:Error from CORS
+20250514	12:19:37	21e0ee14-f854-49cb-bf93-e4efdac29355	Error:Error from CORS
+20250514	12:21:17	7e961f77-b679-4279-9542-6633c2925166	Error:Error from CORS
+20250514	12:21:19	a4f1a673-85cf-41ea-a2ef-26ae20147070	Error:Error from CORS
+20250514	12:21:20	2c0623fe-32d1-4520-976b-cc2bfb98875c	Error:Error from CORS
+20250514	12:21:24	97daf62d-2904-4091-9ff0-19be87eaf4a5	Error:Error from CORS
+20250514	12:21:42	e120991c-f590-48be-af51-8351addff52b	Error:Error from CORS
+20250514	12:21:50	a366e0ae-7c46-48de-9b37-90d81b601b6a	Error:Error from CORS
+20250514	12:24:42	61c65cde-441c-4af0-9638-8870227b73e6	Error:Error from CORS
+20250514	12:26:00	51258fce-103d-446d-bee7-229331dba3c1	Error:Error from CORS
+20250514	12:26:05	07292e32-5dc3-4982-9bbf-4dd5f1bc2b5e	Error:Error from CORS
+20250514	12:26:26	3018c65f-eb69-49d8-a0b2-e445020d50bc	Error:Error from CORS
+20250514	12:28:17	3456bc3a-bdcc-453d-a56c-3740cfda42e2	Error:Error from CORS
+20250514	13:10:21	59f53720-2a6e-4714-aa77-6693bd7e4952	Error:Error from CORS
+20250514	13:10:32	2f428286-e85f-4b73-9c95-63b931d7fc25	Error:Error from CORS
+20250514	13:10:35	c5085088-168c-4f09-8d3e-3c0dd9f6d4c3	Error:Error from CORS
+20250514	13:15:15	2e5b4c21-92d0-4ac3-a4d3-8853ad0eed67	Error:Error from CORS
+20250514	13:17:01	210c7d39-62af-41d5-8f56-be87d1299d79	Error:Error from CORS
+20250514	13:17:33	631dbde8-a495-4b85-bf89-8a14b98ac7f1	Error:Error from CORS
+20250514	13:21:32	016695c1-31f7-4bec-8edb-e754229edda0	Error:Error from CORS
+20250514	14:31:29	1fec09d0-1ba9-4b72-b6da-b98b335d28f3	Error:Error from CORS
+20250514	14:31:30	108174de-4283-4759-ab7e-9e04250b93ea	Error:Error from CORS
+20250514	14:31:30	64536cff-c40d-4f17-a7b4-1ef181bce294	Error:Error from CORS
+20250514	14:31:31	b246d1eb-1650-4be5-9d59-519205f55e69	Error:Error from CORS
+20250514	14:31:31	aa672094-b602-40ac-89f0-4fd1833e8ced	Error:Error from CORS
+20250514	14:31:32	3cd3a0b9-50d8-4b61-a62c-bde11bc83da6	Error:Error from CORS
+20250514	14:31:34	81fcc548-3eae-4ebc-9d8a-52f38ae2b460	Error:Error from CORS
+20250514	14:31:35	adb7200c-e44b-4762-b938-c13c1f98a5dc	Error:Error from CORS
+20250514	14:31:35	8f22e5c6-0339-4234-a6c6-c43c4e55ddbe	Error:Error from CORS
+20250514	14:31:36	f8411941-d341-4ca0-9b86-536ae9c15b53	Error:Error from CORS
+20250514	14:31:37	4be03061-cece-47a7-9646-92720ff604c7	Error:Error from CORS
+20250514	14:31:37	3b1d7807-9cc1-4299-92b4-0a6d45d3b261	Error:Error from CORS
+20250514	14:31:38	1aaabd2b-02c1-4c64-96bc-2dad846b19c5	Error:Error from CORS
+20250514	14:31:38	52adbeea-0664-4623-9b1b-17e651951a05	Error:Error from CORS
+20250514	14:31:39	bb6228aa-57b7-40ee-99fe-838f7ae4e17e	Error:Error from CORS
+20250514	14:31:39	5801bcf0-9c2b-4dda-9d89-310b241a620d	Error:Error from CORS
+20250514	14:31:40	71f10434-f2a1-4432-9528-a1ea882fc010	Error:Error from CORS
+20250514	14:33:18	f818d081-6da1-4bbe-94cb-39e6fe64f06b	Error:Error from CORS
+20250514	14:33:21	7eb72b69-99d9-4a62-9eab-609499e6263e	Error:Error from CORS
+20250514	14:36:53	c60dd6bb-4fab-40ee-9039-4983fb67fd7b	Error:Error from CORS
+20250514	14:38:24	86532bf0-79b5-433e-8284-f4eae0afbd5c	Error:Error from CORS
+20250514	14:38:26	861edf11-abce-4cd1-b160-81b2cf85e639	Error:Error from CORS
+20250514	14:38:27	689eaf87-a57d-4c9e-906d-0efee70b012b	Error:Error from CORS
+20250514	14:38:31	46b2f353-eca6-4d70-a3bd-54e82124f844	Error:Error from CORS
+20250514	14:40:27	bc3f5872-8750-4707-978b-feb9f54ae2e2	Error:Error from CORS
